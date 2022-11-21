@@ -49,7 +49,7 @@ And I am now having immense zeal in ***quantitative history*** or ***historical 
 3. Dongcheng Zhang, **Hanchen Jiang**, Maoshan Qiang, Kunpeng Zhang, Liangfei Qiu. Time to Stop Rewards? The Consequences of Canceling Monetary Incentives. Under review in Information Systems Research
 4. **Hanchen Jiang**, Dongcheng Zhang. We are educated and compliant: The impact of Keju, a historical meritocratic institution, on social distancing during COVID-19. submitted to Journal of Politics
 
-##Work in progress
+## Work in progress
 
 1. Man-induced disaster, educational attainment and gender gap. (with Yi Zhou)
 2. Digital government APP, administrative burden and digital divide. (with Tian Gan)
@@ -57,8 +57,5 @@ And I am now having immense zeal in ***quantitative history*** or ***historical 
 4. Neighbor's policy information as a nudge. (With Mengqing Zhang)
 5. Give and Take: Undertaking other citys’ Pollution to Promotion (With Xing Chen)
 
-
-
-##Skills
-
+## Skills
 I mainly work with R and Stata and sometimes with Python. I am good at text mining as well as running reghdfe!!!!

@@ -29,7 +29,7 @@ And I am now having immense zeal in ***quantitative history*** or ***historical 
 14. Maoshan Qiang, Qi Wen, **Hanchen Jiang**, Shangnan Yuan. Factors governing construction project delivery selection: A content analysis. International Journal of Project Management, 2015, 33(8), 1780-1794.
 15. **Hanchen Jiang**, Peng Lin, Maoshan Qiang, Qixiang Fan. A labor consumption measurement system based on realtime tracking technology for dam construction site. Automation in Construction, 2015, 52, 1-15. 
 
-##Chinese Publications
+## Chinese Publications
 
 1. **江汉臣**, 卢樱丹, 唐啸. “借鉴发达国家经验”能够提高公众政策支持吗？——基于调研实验法的实证研究. 公共行政评论, 2022, (2), 115-132
 2. 张东成, 强茂山, **江汉臣**, 黄钰洁.大型工程安全隐患管理协作特征挖掘. 清华大学学报(自然科学版): 2021, 1-7
@@ -42,7 +42,7 @@ And I am now having immense zeal in ***quantitative history*** or ***historical 
 9. 强茂山, 温祺, **江汉臣**, 袁尚南. 建设管理模式匹配关系及其对项目绩效的影响. 同济大学学报(自然科学版), 2015, 43(1), 0160-0166.
 10. **江汉臣**, 强茂山. 四种项目管理成熟度模型的比较研究. 项目管理技术, 2013, (7), 17-22.
 
-##Working papers
+## Working papers
 
 1. **Hanchen Jiang**, Yinglun Wang. Public behavioral responses to official epidemic information: evidence from COVID-19 pandemic in China. Government Information Quarterly (minor revision).
 2. Dongcheng Zhang, **Hanchen Jiang (Corresponding author)**, Maoshan Qiang. Information provision, partisan identification and public attitudes to hydropower in China: an online survey experiment. Technological Forecasting and Social Change (minor revision).

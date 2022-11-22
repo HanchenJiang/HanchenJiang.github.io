@@ -28,7 +28,6 @@ And I am now having immense zeal in ***quantitative history*** or ***historical 
 13. **Hanchen Jiang**, Peng Lin, Maoshan Qiang. Public-Opinion Sentiment Analysis for Large Hydro Projects. Journal of Construction Engineering and Management, 2016, 142(2), 05015013.
 14. Maoshan Qiang, Qi Wen, **Hanchen Jiang**, Shangnan Yuan. Factors governing construction project delivery selection: A content analysis. International Journal of Project Management, 2015, 33(8), 1780-1794.
 15. **Hanchen Jiang**, Peng Lin, Maoshan Qiang, Qixiang Fan. A labor consumption measurement system based on realtime tracking technology for dam construction site. Automation in Construction, 2015, 52, 1-15. 
-16. **Hanchen Jiang**, Peng Lin, Qixiang Fan, Maoshan Qiang. Real-Time Safety Risk Assessment Based on a Real-Time Location System for Hydropower Construction Sites. The Scientific World Journal, 2014, 235970. 
 
 
 ## Chinese Publications

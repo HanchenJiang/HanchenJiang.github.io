@@ -3,7 +3,7 @@
 I am Hanchen Jiang, an assistant professor in ***School of Government***, ***University of International Business and Economics*** since 2022. I did my post-doc project in ***School of Public Policy and Management***, ***Tsinghua University*** from 2019 to 2022. I cooperated with Prof. Angang Hu and Dr. Xiao Tang.
 In 2019, I obtained my Ph.D. degree in Management Science and Engineering from ***Tsinghua University*** under the supervision of Prof. Maoshan Qiang. In 2013, I obtained my Bachelor degree in Hydraulic Engineering from ***Tsinghua University***.
 
-**My email is** [jhc09@qq.com] OR [03174@uibe.edu.cn]
+**My email is** [jhc09@qq.com] OR [03174@uibe.edu.cn]!
 **My Wechat is** ***jianghanchen001***, just add me to your contact list!
 
 
@@ -13,7 +13,7 @@ And I am now having immense zeal in ***quantitative history*** or ***historical 
 
 ## English Publications
 
-1. **Hanchen Jiang**, Xiao Tang. Effects of government social media use on citizens compliance behavior. Public Administration, 2022, online. 
+1. **Hanchen Jiang**, Xiao Tang. Effects of government social media use on citizens compliance behavior. Public Administration, 2022, online. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/padm.12845)
 2. **Hanchen Jiang**, Mengqing Zhang. Online information adoption about public infrastructure projects in China. Journal of Cleaner Production, 2021, 310, 127527.
 3. Bingqing Xia, Maoshan Qiang, **Hanchen Jiang**, Qi Wen, Nan An, Dongcheng Zhang. 2020. Phase-based externality analysis for large hydropower projects. Environmental Impact Assessment Review, 80(Jan.), 106332.1-106332.12. 
 4. Nan An, Maoshan Qiang, Qi Wen, **Hanchen Jiang**, Bingqing Xia. Contribution of project managers’ capability to project ending performance under stressful conditions. European Management Journal. 2019, 37, 198-209.

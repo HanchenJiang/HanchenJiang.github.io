@@ -1,5 +1,4 @@
-# 想象是发现的本质 Imagination is the essence of discovery
-# Hanchen Jiang's page
+# Hanchen Jiang's page ***Imagination is the essence of discovery***
 
 I am Hanchen Jiang, an assistant professor in ***School of Government***, ***University of International Business and Economics*** since 2022. I did my post-doc project in ***School of Public Policy and Management***, ***Tsinghua University*** from 2019 to 2022. I cooperated with Prof. Angang Hu and Dr. Xiao Tang.
 In 2019, I obtained my Ph.D. degree in Management Science and Engineering from ***Tsinghua University*** under the supervision of Prof. Maoshan Qiang. In 2013, I obtained my Bachelor degree in Hydraulic Engineering from ***Tsinghua University***.
@@ -55,7 +54,7 @@ And I am now having immense zeal in ***quantitative history*** or ***historical 
 
 1. Man-induced disaster, educational attainment and gender gap. (with Yi Zhou)
 2. Digital government APP, administrative burden and digital divide. (with Tian Gan)
-3. Local Government Social Media Responses to Public Health Crisis: Evidence from the COVID-19 epidemic in China. (with Xiao Tang and Tian Gan)
+3. Local Government Social Media Responses to Public Health Crisis: Evidence from the COVID-19 epidemic in China. (with Xiao Tang and Bo Fan)
 4. Neighbor's policy information as a nudge. (With Mengqing Zhang)
 5. Give and Take: Undertaking other citys’ Pollution to Promotion (With Xing Chen)
 

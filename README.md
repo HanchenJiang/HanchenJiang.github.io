@@ -46,7 +46,7 @@ And I am now having immense zeal in ***quantitative history*** or ***historical 
 
 ## Working papers
 
-1. **Hanchen Jiang**, Yinglun Wang. Public behavioral responses to official epidemic information: evidence from COVID-19 pandemic in China. Government Information Quarterly (minor revision).
+1. **Hanchen Jiang**, Yinglun Wang. Public behavioral responses to official epidemic information: evidence from COVID-19 pandemic in China. submitted to Technological Forecasting and Social Change.
 2. Dongcheng Zhang, **Hanchen Jiang (Corresponding author)**, Maoshan Qiang. Information provision, partisan identification and public attitudes to hydropower in China: an online survey experiment. Technological Forecasting and Social Change (minor revision).
 3. Dongcheng Zhang, **Hanchen Jiang**, Maoshan Qiang, Kunpeng Zhang, Liangfei Qiu. Time to Stop Rewards? The Consequences of Canceling Monetary Incentives. Under review in Information Systems Research
 4. **Hanchen Jiang**, Dongcheng Zhang. We are educated and compliant: The impact of Keju, a historical meritocratic institution, on social distancing during COVID-19. submitted to Journal of Politics

@@ -50,14 +50,14 @@ And I am now having immense zeal in ***quantitative history*** or ***historical 
 2. Dongcheng Zhang, **Hanchen Jiang (Corresponding author)**, Maoshan Qiang. Information provision, partisan identification and public attitudes to hydropower in China: an online survey experiment. Technological Forecasting and Social Change (minor revision).
 3. Dongcheng Zhang, **Hanchen Jiang**, Maoshan Qiang, Kunpeng Zhang, Liangfei Qiu. Time to Stop Rewards? The Consequences of Canceling Monetary Incentives. Under review in Information Systems Research
 4. **Hanchen Jiang**, Dongcheng Zhang. We are educated and compliant: The impact of Keju, a historical meritocratic institution, on social distancing during COVID-19. submitted to Journal of Politics
+5. Xing Chen, Jiaheng Ling, **Hanchen Jiang**, Addressing multitasking problems through promotion incentives
+6. **Hanchen Jiang**, Mengqing Zhang, Xiao Tang. Improving public policy support through reference country cues: Evidence from a survey experiment in China
+7. **Hanchen Jiang**, Bo Fan, Xiao Tang. Local Government Social Media Responses to Public Health Crisis: Evidence from the COVID-19 epidemic in China. 
 
 ## Work in progress
 
 1. Man-induced disaster, educational attainment and gender gap. (with Yi Zhou)
 2. Digital government APP, administrative burden and digital divide. (with Tian Gan)
-3. Local Government Social Media Responses to Public Health Crisis: Evidence from the COVID-19 epidemic in China. (with Xiao Tang and Bo Fan)
-4. Neighbor's policy information as a nudge. (With Mengqing Zhang)
-5. Give and Take: Undertaking other citys’ Pollution to Promotion (With Xing Chen)
 
 ## Skills
 I mainly work with R and Stata and sometimes with Python. I am good at text mining as well as running reghdfe!!!!

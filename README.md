@@ -33,7 +33,7 @@ And I am now having immense zeal in ***quantitative history*** or ***historical 
 
 ## Chinese Publications
 
-1. **江汉臣**, 卢樱丹, 唐啸. “借鉴发达国家经验”能够提高公众政策支持吗？——基于调研实验法的实证研究. 公共行政评论, 2022, (2), 115-132 [link](https://jpa.sysu.edu.cn/docs/20220421090931375503.pdf)
+1. **江汉臣**, 卢樱丹, 唐啸. 政策宣介中“借鉴发达国家经验”能够提高公众政策支持吗？——基于调研实验法的实证研究. 公共行政评论, 2022, (2), 115-132 [link](https://jpa.sysu.edu.cn/docs/20220421090931375503.pdf)
 2. 张东成, 强茂山, **江汉臣**, 黄钰洁.大型工程安全隐患管理协作特征挖掘. 清华大学学报(自然科学版): 2021, 1-7 [link](http://jst.tsinghuajournals.com/CN/10.16511/j.cnki.qhdxxb.2021.22.045)
 3. 孙明豪, 强茂山, **江汉臣**, 康延领. 西藏小型水电站开发阻碍因素. 水利经济, 2021, 39(02): 77-81+98. [link](https://jour.hhu.edu.cn/sljj/article/abstract/202102013)
 4. 强茂山, **江汉臣**. 数字化驱动:项目管理深度创新的引擎. 项目管理评论, 2018(02): 16-18. [link](http://www.cnki.com.cn/Article/CJFDTotal-XMGP201802004.htm)
